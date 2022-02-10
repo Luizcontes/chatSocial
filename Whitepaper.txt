@@ -1,0 +1,5 @@
+-Colocar aqui ideias de usabilidade para a app
+
+-Escrever a motivação por detras da construção desse app em especifico
+
+- Anotar outras componentes não tecnicas envolvendo a psicologia e filosofia por trás do conceito
